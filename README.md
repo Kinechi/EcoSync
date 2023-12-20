@@ -88,6 +88,12 @@ Adviser
 
 
 
-Engr. Ezekiel P. Arceo		Engr. Harry Bert G. Rolle		Engr. Jason G. Santos
-Panelist				Panelist				Panelist
+Engr. Ezekiel P. Arceo		
+Panelist				
+
+Engr. Harry Bert G. Rolle
+Panelist
+
+Engr. Jason G. Santos
+Panelist
 
